@@ -4,7 +4,7 @@
 #
 Name     : rubygem-descendants_tracker
 Version  : 0.0.4
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/descendants_tracker-0.0.4.gem
 Source0  : https://rubygems.org/downloads/descendants_tracker-0.0.4.gem
 Summary  : No detailed summary available
